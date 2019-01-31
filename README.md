@@ -1,10 +1,10 @@
 # Hands-On Protocol Oriented Programming with Swift 4.x [Video]
 This is the code repository for [Hands-On Protocol Oriented Programming with Swift 4.x [Video]](https://www.packtpub.com/application-development/hands-protocol-oriented-programming-swift-4x-video?utm_source=github&utm_medium=repository&utm_campaign=9781789610307), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-	You might be working in an organization, or have your own business, where data is being generated continuously (structured or unstructured) and you are looking to develop your skillset so you can jump into the field of Data Science. This hands-on guide shows non-programmers like you how to process information that's initially too messy or difficult to access.
-In this course, you will gather data, prepare data for analysis, perform simple statistical analyses, create meaningful data visualizations, and more! This course will equip you with the tools and technologies you need to analyze datasets (real-life datasets containing lots of anomalies) using Python so that you can confidently jump into the field and enhance your skillset. The best part of this course is the take-away code templates generated using the real-life dataset. 
-Towards the end of the course, you'll build an intuitive understanding of all the aspects available in Python for Data Wrangling. 
-By the end of this course, you will be comfortable with using R and its associated libraries to solve any problem associated with quantitative finance.
+Swift has become the number one language used in iOS and MacOS development. 
+
+The Swift standard library is developed using protocol-oriented programming techniques, generics, and first-class value semantics; therefore, every Swift developer should understand these powerful concepts and how to take advantage of them in their application design. This course will help you understand the differences between object-oriented programming and protocol-oriented programming. It will demonstrate how to work with protocol-oriented programming via real-world use cases. 
+You will gain a solid knowledge of the various types that can be used in Swift and the differences between value and reference types. You will learn how protocol-oriented programming techniques can be used to develop very flexible and easy-to-maintain code. By the end of the course, you'll be confident and have a good understanding of protocol-oriented programming and how to utilize it to build powerful and practical applications.
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
@@ -21,11 +21,14 @@ By the end of this course, you will be comfortable with using R and its associat
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This course is for Python developers, data analysts, and IT professionals who are keen to explore data analytics/insights to enrich their current personal or professional projects.
-Having a rudimentary idea about relational database and SQL would be a bonus. Even seasoned Python developers can benefit from this course as it focuses on data engineering aspects.
+To succeed in this course, you need the following:
+
+A thorough understanding of Swift up to Swift 4.
+A basic understanding of Object-Oriented Programming.
+If you're keen to learn the basics of a protocol-oriented approach or want to pick up some advanced knowledge of protocol architectures, this course is for you.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Swift 4.0
+Swift 4
 
 ## Related Products
 * [Microservices Development on Azure with Java [Video]](https://www.packtpub.com/virtualization-and-cloud/microservices-development-azure-java-video?utm_source=github&utm_medium=repository&utm_campaign=9781789808858)
